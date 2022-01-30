@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Ragnarok360/EmiliaClarke_Robot",
-    "repository": "https://github.com/Ragnarok360/EmiliaClarke_Robot",
+    "website": "https://github.com/Cutozki/EmiliaClarke_Robot",
+    "repository": "https://github.com/Cutozki/EmiliaClarke_Robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
